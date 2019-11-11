@@ -563,9 +563,8 @@ button:focus {
 }
 
 .papers .card_content {
-  padding: 25px;
+  padding: 1rem;
   display: inline;
-  margin-left: 25px;
 }
 
 .papers .card_title {
