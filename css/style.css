@@ -565,6 +565,7 @@ button:focus {
 .papers .card_content {
   padding: 1rem;
   display: inline;
+  margin-left: 0.6rem;
 }
 
 .papers .card_title {
