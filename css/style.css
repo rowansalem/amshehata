@@ -509,20 +509,6 @@ button:focus {
   vertical-align: middle;
 }
 
-/* .papers .btn {
-  color: #ffffff;
-  padding: 0.8rem;
-  font-size: 14px;
-  text-transform: uppercase;
-  border-radius: 4px;
-  font-weight: 400;
-  display: block;
-  width: 100%;
-  cursor: pointer;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  background: transparent;
-} */
-
 .papers .btn:hover {
   background-color: rgba(255, 255, 255, 0.12);
 }
@@ -584,6 +570,14 @@ button:focus {
   font-weight: 400;
 }
 
+.papers .card_text a {
+  color: #5200cd;
+  font-size: 1.3rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+  font-weight: 400;
+  text-decoration: underline;
+}
 .papers a {
   color: #000;
   font-size: 0.875rem;
@@ -594,12 +588,6 @@ button:focus {
 
 .papers li {
   color: #000;
-  /* font-size: 0.875rem; */
-  /* line-height: 1.5; */
-  /* margin-bottom: 1.25rem;     */
-  /* font-weight: 400; */
-  /* margin: 0;
-  padding: 0; */
 }
 
 .papers .made_by{
@@ -608,11 +596,7 @@ button:focus {
   margin-top: 35px;
   text-align: center;
 }
-/* .papers .made_by a {
-  text-decoration: none;
-  color: #5e95ff;
-  font-weight: 700;
-} */
+
 
 .papers .center {
   position: absolute;
